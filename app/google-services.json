@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "422372782239",
+    "firebase_url": "https://proyecto-bc9cc-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-bc9cc",
+    "storage_bucket": "proyecto-bc9cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422372782239:android:a4f3ad8d79b74b4dbf32aa",
+        "android_client_info": {
+          "package_name": "com.example.fireapp5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422372782239-koprqgqimker5e3seq22k4qqthliftg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA48OBm5bhd2jlyuL5X2RjDf_v40UGg6v0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422372782239-koprqgqimker5e3seq22k4qqthliftg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
